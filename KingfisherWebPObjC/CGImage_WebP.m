@@ -6,7 +6,7 @@
 //
 //
 
-#include "include/KingfisherWebPObjC/CGImage+WebP.h"
+#include "include/KingfisherWebPObjC/CGImage_WebP.h"
 
 #import <Accelerate/Accelerate.h>
 #import <CoreFoundation/CoreFoundation.h>

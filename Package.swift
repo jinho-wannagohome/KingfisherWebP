@@ -18,7 +18,8 @@ let package = Package(
             name: "KingfisherWebP",
             dependencies: ["Kingfisher", "KingfisherWebP-ObjC"],
             path: "Sources",
-            exclude: ["KingfisherWebP-ObjC"]
+            exclude: ["KingfisherWebP-ObjC"],
+            publicHeadersPath: "KingfisherWebP.h"
         ),
         .target(
             name: "KingfisherWebP-ObjC",

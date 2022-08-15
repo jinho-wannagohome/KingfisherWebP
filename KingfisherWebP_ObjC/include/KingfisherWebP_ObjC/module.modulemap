@@ -1,0 +1,4 @@
+module KingfisherWebP_ObjC {
+//    umbrella ".."
+    export *
+}

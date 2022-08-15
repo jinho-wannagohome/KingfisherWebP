@@ -6,7 +6,7 @@
 //
 //
 
-#import "CGImage_WebP.h"
+#import "include/CGImage_WebP.h"
 
 #import <Accelerate/Accelerate.h>
 #import <CoreFoundation/CoreFoundation.h>

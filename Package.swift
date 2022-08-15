@@ -24,7 +24,7 @@ let package = Package(
         .target(
             name: "KingfisherWebP_ObjC",
             dependencies: ["libwebp"],
-            path: "KingfisherWebP_ObjC",
+            path: "ObjC",
             publicHeadersPath: "include"
         )
     ]
